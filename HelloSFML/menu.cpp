@@ -10,7 +10,7 @@ using namespace std;
 menu::menu(float width, float height) {
 	font.loadFromFile("University.otf");
 
-
+	//watanyyyyyyyyyyyyyyyyyyyy
 
 	mainmenu[0].setFont(font);
 	mainmenu[0].setFillColor(Color{ 245,189,2 });
